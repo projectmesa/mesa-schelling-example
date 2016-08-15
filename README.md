@@ -1,3 +1,5 @@
+*Note: This is an example repo to demostrate a stand alone model, outside of the Mesa code base.*
+
 # Schelling Segregation Model
 
 ## Summary
@@ -37,8 +39,8 @@ To view and run some example model analyses, launch the IPython Notebook and ope
 
 Schelling's original paper describing the model:
 
-[Schelling, Thomas C. Dynamic Models of Segregation. Journal of Mathematical Sociology. 1971, Vol. 1, pp 143-186.](https://www.stat.berkeley.edu/~aldous/157/Papers/Schelling_Seg_Models.pdf)
+* [Schelling, Thomas C. Dynamic Models of Segregation. Journal of Mathematical Sociology. 1971, Vol. 1, pp 143-186.](https://www.stat.berkeley.edu/~aldous/157/Papers/Schelling_Seg_Models.pdf)
 
 An interactive, browser-based explanation and implementation:
 
-[Parable of the Polygons](http://ncase.me/polygons/), by Vi Hart and Nicky Case.
+* [Parable of the Polygons](http://ncase.me/polygons/), by Vi Hart and Nicky Case.
